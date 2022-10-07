@@ -56,7 +56,7 @@ Given an **m x n** integer matrix, if an element is 0, set its entire row and co
 	 [0,3,1,0]]
 
 ### Note
-The best solution has **Space Complexity** of **O(n)**.
+The best solution has **Space Complexity** of **O(1)**.
 
 ## ❇️ How to contribute
 
