@@ -1,3 +1,3 @@
 # Complexity
-- Time complexity: O(n²)
-- Space complexity: O(n²)
+- Time complexity: O(m * n)
+- Space complexity: O(m + n)
