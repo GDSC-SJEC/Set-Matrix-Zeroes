@@ -8,3 +8,4 @@
 - [Aishwarya Paininde](https://github.com/Aishwaryapaininde)
 - [Amit Dave](https://github.com/AmitDave22)
 - [Shivanshu Thakur](https://github.com/shivanshut105)
+- [Vyasa M Nayal](https://github.com/SeptiCalls)
