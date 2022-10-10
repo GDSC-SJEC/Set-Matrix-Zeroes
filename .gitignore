@@ -197,3 +197,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,macos,windows
 .vscode
+
+# charis-vyasa-samwin compiled binaries
+/submissions/charis-vyasa-samwin/matzero
