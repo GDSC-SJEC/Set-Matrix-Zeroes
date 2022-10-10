@@ -201,6 +201,3 @@ $RECYCLE.BIN/
 # SeptiCalls
 submissions/charis-vyasa/set-matrix-zero
 submissions/charis-vyasa/*.exe
-
-# charis-vyasa-samwin compiled binaries
-/submissions/charis-vyasa-samwin/matzero
