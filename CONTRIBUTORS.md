@@ -9,3 +9,4 @@
 - [Amit Dave](https://github.com/AmitDave22)
 - [Shivanshu Thakur](https://github.com/shivanshut105)
 - [Vyasa M Nayak](https://github.com/SeptiCalls)
+- [Ali Raza](https://github.com/AliRaza503)
