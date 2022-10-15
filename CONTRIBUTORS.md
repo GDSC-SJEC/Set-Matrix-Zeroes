@@ -11,3 +11,4 @@
 - [Vyasa M Nayak](https://github.com/SeptiCalls)
 - [Ali Raza](https://github.com/AliRaza503)
 - [Joywin](https://github.com/joywin2003)
+- [Amit Barman](https://github.com/AmitBarman99)
